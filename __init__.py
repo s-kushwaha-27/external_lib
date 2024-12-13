@@ -13,7 +13,7 @@
 # CNRI.  Hewlett-Packard provided funding for 1.6 integration and
 # other compatibility work.
 #
-print(x)
+
 r"""Support for regular expressions (RE).
 
 This module provides regular expression matching operations similar to
